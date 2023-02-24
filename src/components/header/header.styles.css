@@ -1,0 +1,20 @@
+.header-flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user {
+  color: #000000;
+  font-weight: bold;
+}
+
+.dropdown {
+  background-color: #EAEDF7;
+  border-radius: 8px;
+  padding: 3px;
+}
+
+.profilepicture {
+  width: 30px;
+  height: 30px;
+}/*# sourceMappingURL=header.styles.css.map */

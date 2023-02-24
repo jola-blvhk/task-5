@@ -1,0 +1,19 @@
+.header-flex {
+    display: flex;
+    justify-content: space-between;
+}
+.user {
+    color: #000000;
+    font-weight: bold;
+}
+.dropdown {
+    background-color: #EAEDF7;
+    border-radius: 8px;
+    // border: 1px solid #EAEDF7;
+    padding: 3px;
+}
+
+.profilepicture {
+    width: 30px;
+    height: 30px;
+}

@@ -1,0 +1,36 @@
+.wrapper {
+  position: relative;
+  display: flex;
+  min-width: 100px;
+  align-items: center;
+}
+
+.search-icon {
+  position: absolute;
+  top: 13px;
+  left: 10px;
+  width: 14px;
+  color: #E8E8E8;
+}
+
+.search {
+  color: #6C757D;
+  border-radius: 10px;
+  height: 40px;
+  width: 200px;
+  padding: 2px 23px 2px 30px;
+  outline: 0;
+  background-color: white;
+  border: 1px solid #E8E8E8;
+}
+
+.search:hover, .search:focus {
+  border: 1.5px solid #009688;
+  background-color: white;
+}
+
+@media (min-width: 700px) {
+  .search {
+    width: 400px;
+  }
+}/*# sourceMappingURL=search-box.styles.css.map */
